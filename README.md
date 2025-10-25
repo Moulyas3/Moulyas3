@@ -2,8 +2,7 @@
 🎓 MSc Data Analytics student at De Montfort University, UK  
 📊 Passionate about transforming data into meaningful business insights  
 💻 Skilled in Power BI, SQL, Excel, and JavaScript  
-🌱 Currently exploring data visualization, dashboards, and predictive analytics  
-🚀 Love building projects that connect technology with real-world problem solving
+🌱 Currently exploring data visualization, dashboards, and predictive analytics
 📫 How to reach me www.linkedin.com/in/moulya-s2103/
 
 <!---
